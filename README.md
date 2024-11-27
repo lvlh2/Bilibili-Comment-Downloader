@@ -1,4 +1,4 @@
-# Bilibili Comment Fetcher
+# Bilibili Comment Downloader
 
 主要基于`requests`库，通过Bilibili的评论api爬取视频评论、点赞数以及评论回复
 
